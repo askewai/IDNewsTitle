@@ -1,4 +1,4 @@
 # Indonesia News Title
 My first Indonesia News Portal Headlines Dataset contains news headlines collected from 20 major Indonesian news portals through web scraping conducted on February 23, 2025. The dataset is structured into three key components: the source of the news, the headline title, and the date of publication. By compiling headlines from multiple sources, this dataset provides a comprehensive snapshot of trending topics across different media outlets in Indonesia. It can be utilized for various analytical and research purposes, such as trending topic analysis, sentiment analysis, and natural language processing (NLP) applications. Researchers can use this dataset to track public sentiment, identify recurring themes in news coverage, and train machine learning models for text-based tasks such as classification, keyword extraction, and summarization.
 
-### Source dataset: 10.34740/kaggle/dsv/10831968 (kaggle)
+##### Source dataset: 10.34740/kaggle/dsv/10831968 (kaggle)
